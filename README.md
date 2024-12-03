@@ -125,10 +125,3 @@ uvicorn main:app --reload
 - Code Page
   ![Screen Shot](resources/code.png)
 
-## Authors
-
-Built with ❤️ by:
-
-- **David Perez** - [David Perez](https://github.com/davidperjac)
-- **Fernando Bucheli** - [Fernando Bucheli](https://github.com/ferbucheli)
-- **David Bravo** - [David Bravo](https://github.com/davalbra)
