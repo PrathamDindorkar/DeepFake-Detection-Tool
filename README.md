@@ -14,7 +14,6 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/davidperjac/react-wordle-clon?color=dark-green) ![Issues](https://img.shields.io/github/issues/davidperjac/react-wordle-clon) ![License](https://img.shields.io/github/license/davidperjac/react-wordle-clon)
 
 ## Table Of Contents
 
@@ -23,7 +22,6 @@
 - [Getting Started](#getting-started)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Authors](#authors)
 
 ## About The Project
 
